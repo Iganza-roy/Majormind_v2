@@ -49,7 +49,7 @@ input[type='submit'] {
   /*--color-purple: #805af5;*/
   --color-purple: #1f51ff;
   --color-darkCyan: #169091;
-  --color-orange: #e34d00;
+  --color-orange: #1f51ff;
   --color-gradient: linear-gradient(
     0.86deg,
     var(--color-orange) 34.64%,
