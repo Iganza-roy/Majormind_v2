@@ -1,5 +1,5 @@
 /*
-Theme Name: Neura AI Saas HTML5 Template
+Theme Name: Majormind HTML5 Template
 Theme URI: 
 Design by: https://themeforest.net/item/neura-ai-saas-website-figma-template/52094674
 Developed by: Flash Coder Studio
@@ -1570,7 +1570,8 @@ a:hover {
   visibility: hidden;
   border-radius: 100px;
   background: var(--color-black3);
-  box-shadow: 0 4.8px 24.4px -6px rgba(19, 16, 34, 0.1),
+  box-shadow:
+    0 4.8px 24.4px -6px rgba(19, 16, 34, 0.1),
     0 4px 13px -2px rgba(19, 16, 34, 0.06);
   z-index: 5;
 }
@@ -2201,7 +2202,8 @@ a:hover {
 .services.v2 .collaboration-card::before,
 .services.v2 .services-card::before {
   padding: 2px;
-  -webkit-mask: linear-gradient(var(--color-white) 0 0) content-box,
+  -webkit-mask:
+    linear-gradient(var(--color-white) 0 0) content-box,
     linear-gradient(var(--color-white) 0 0);
   -webkit-mask-composite: xor;
   mask-composite: exclude;
@@ -2341,7 +2343,9 @@ a:hover {
   border-radius: 20px;
   padding: 2px;
   background: linear-gradient(var(--color-black2), var(--color-orange));
-  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
   mask-composite: exclude;
   z-index: -1;
@@ -2350,7 +2354,9 @@ a:hover {
 .testimonial.v1 .testimonial-card::before,
 .testimonial.v2 .testimonial-card::before {
   padding: 2px;
-  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
 }
 .work-process.v1 .work-process-cards li .text-2 {
@@ -2647,7 +2653,8 @@ a:hover {
   content: '';
   border-radius: 20px;
   padding: 2px;
-  -webkit-mask: linear-gradient(var(--color-white) 0 0) content-box,
+  -webkit-mask:
+    linear-gradient(var(--color-white) 0 0) content-box,
     linear-gradient(var(--color-white) 0 0);
   -webkit-mask-composite: xor;
   mask-composite: exclude;
